@@ -44,6 +44,10 @@ public class frameStudy {
 		Select s=new Select(cat);
 		s.selectByIndex(1);
 		
+		
+		
+		System.out.println("hi this is frame class ");
+		// this is for github 
 
 	}
 
